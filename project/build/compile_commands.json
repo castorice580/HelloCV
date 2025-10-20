@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/castorice580/project/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/CryptoTool.dir/main.cpp.o -c /home/castorice580/project/cmake/main.cpp",
+  "file": "/home/castorice580/project/cmake/main.cpp"
+}
+]
