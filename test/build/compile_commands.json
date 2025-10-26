@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/castorice580/test/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -std=gnu++11 -o CMakeFiles/image_demo.dir/main.cpp.o -c /home/castorice580/test/main.cpp",
+  "file": "/home/castorice580/test/main.cpp"
+}
+]

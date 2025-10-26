@@ -1,0 +1,3 @@
+/home/castorice580/test/build/CMakeFiles/image_demo.dir
+/home/castorice580/test/build/CMakeFiles/edit_cache.dir
+/home/castorice580/test/build/CMakeFiles/rebuild_cache.dir
